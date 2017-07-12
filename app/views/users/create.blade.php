@@ -1,0 +1,1 @@
+/vagrant/sites/purotours.dev/app/views/users/create.blade.php
